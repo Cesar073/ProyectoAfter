@@ -1,3 +1,2 @@
 from django.shortcuts import render
-
-# otro comentario
+# y ahora soy MARÍA quien modifica la 2da línea
